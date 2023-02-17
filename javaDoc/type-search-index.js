@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"rosterfiles","l":"Date"},{"p":"rosterfiles","l":"Major"},{"p":"rosterfiles","l":"Profile"},{"p":"rosterfiles","l":"Roster"},{"p":"rosterfiles","l":"RosterManager"},{"p":"rosterfiles","l":"RunProject1"},{"p":"rosterfiles","l":"Student"}]
